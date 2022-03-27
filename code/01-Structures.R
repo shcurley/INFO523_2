@@ -1,5 +1,6 @@
 ## 01-Structures.R
 # Code from 01-structures
+# The file gives example practice usage of various basic R structures.
 
 5 + 5
 4 - 1

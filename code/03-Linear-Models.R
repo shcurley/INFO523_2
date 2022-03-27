@@ -1,4 +1,5 @@
 ## 03-Linear Models
+# This is a sample R file demonstrating some basic R Linear Models and their use.
 library(ggplot2)
 library(dplyr)
 
